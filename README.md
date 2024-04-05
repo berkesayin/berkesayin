@@ -4,7 +4,7 @@
 
 <h3 align="center">Software Developer</h3>
 
-<p align="center">As a software developer with mostly focus on JavaScript, I'm constantly striving to improve my skills in this field. With a solid foundation in web development and curiosity for new technologies and programming concepts, I'm always eager to learn and take on new challenges. Whether it's through self-directed study or collaborating with peers on complex projects, I'm committed to expanding my expertise in the industry.</p>
+<p align="center">As a software engineer, I'm constantly striving to improve my skills in this field. With a solid foundation in web development and curiosity for new technologies and programming concepts, I'm always eager to learn and take on new challenges. Whether it's through self-directed study or collaborating with peers on complex projects, I'm committed to expanding my expertise in the industry.</p>
 
 <h3 align="center">Technologies</h3>
 
