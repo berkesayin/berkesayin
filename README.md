@@ -1,6 +1,6 @@
 ## Hi there, I'm Berke..
 
-- 👋 I'm a Software Engineer who likes to design ideas and turn them into products.
+- 👋 I'm a Software Engineer who likes to design ideas and implement them into products.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 Feel free to contact me on any subject.
 
