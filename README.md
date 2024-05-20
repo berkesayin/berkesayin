@@ -1,19 +1,17 @@
-### Hi there, I'm Berke 👋
+### Hi there, I'm Berke..
 
 <h3>Software Developer</h3>
 
-- <p>I am a Software Engineer who likes to design ideas and turn them into products.</p>
+- 👋 I'm a Software Engineer who likes to design ideas and turn them into products.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 Feel free to contact me on any subject.
 
 <h3>Some Blog Posts (in Turkish)</h3>
 
-<div>
-    - <a href="https://sayinberkesayin.medium.com/log-verileri-y%C3%B6netimi-graylog-5a7dd849fc51">Docker Compose - Graylog Server</a><br>
-    - <a href="https://sayinberkesayin.medium.com/elasticsearch-4dbbccd23aa7">Elasticsearch'ün Mimari Yapısı</a><br>
-    - <a href="https://sayinberkesayin.medium.com/mikroservisler-mimarisi-e2326599af3a">Mikroservisler Mimarisi</a><br>
-    - <a href="https://sayinberkesayin.medium.com/api-gateway-22a76ea1949e">API Gateway</a><br>
-</div>
+- [Docker Compose - Graylog Server](https://sayinberkesayin.medium.com/log-verileri-y%C3%B6netimi-graylog-5a7dd849fc51)
+- [Elasticsearch'ün Mimari Yapısı](https://sayinberkesayin.medium.com/elasticsearch-4dbbccd23aa7)
+- [Mikroservisler Mimarisi](https://sayinberkesayin.medium.com/mikroservisler-mimarisi-e2326599af3a)
+- [API Gateway](https://sayinberkesayin.medium.com/api-gateway-22a76ea1949e)
 
 <h3>Statistics</h3>
 
